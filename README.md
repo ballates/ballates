@@ -1,4 +1,4 @@
-- 👋 Hi, I’m be4183al that is my pseudo or just call me Ben.
+- 👋 Hey , I’m be4183al that is my pseudo or just call me Ben.
 - 👀 I’m interested in Artificial Intelligence (AI)  Analysis.
 - 🌱 I’m currently learning AI in IA SCHOOL in Paris / I started work for POLYNOM
 - 💞️ I’m looking to collaborate on project related to AI, any new opportunies are welcomed
