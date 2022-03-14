@@ -1,4 +1,4 @@
-- 👋 Hey , I’m be4183al that's my pseudo or just call me Beno.
+- 👋 Hey , I’m be4183al that's my pseudo or just call me Ben.
 - 👀 I’m interested in Artificial Intelligence (AI) Analysis.
 - 🌱 I’m available to Data scientist/Data analyst position 
 - 💞️ I’m looking to collaborate on project related to AI, any new opportunies are welcomed
