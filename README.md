@@ -1,8 +1,8 @@
 - 👋 Hey , I’m Ben.
-- 👀 I’m interested in Artificial Intelligence (AI) Analysis.
+- 👀 I’m interested in AI subjets.
 - 🌱 I’m available to Data scientist/Data analyst position 
 - 💞️ I’m looking to collaborate on project related to AI, any new opportunies are welcomed
-- 📫 How to reach me is to e-mail at mbairo.allatessem@gmail.com.
+- 📫 Reach me here at mbairo.allatessem@gmail.com.
 
 <!---
 ballates/ballates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
